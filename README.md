@@ -1,7 +1,11 @@
 # Recommendation Engine for PHP
 This project is a simple recommendation engine designed for online book retail website powered by PHP. 
+
 The recommendation algorithm is based on user rating using collabrative filtering technology. The recommendation engine can be easily modified and implemented to suit various purposes.
-Check the demo for the full implementation version:  [Amazing Book Store](http://sophiawang.ml/)
+
+Check the demo for the full implementation version: 
+[Amazing Book Store](http://sophiawang.ml/)
+
 ------
 ## Features
   - Build-in algorithms and functions
